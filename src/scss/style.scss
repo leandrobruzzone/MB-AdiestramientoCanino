@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+section.row{
+    width: 98vw;
+}
+@import "loading";
+@import "btn";
+@import "subtitulos";
+@import "tarjetas";
+@import "carrusel";
+@import "footer";
+@import "header";
+@import "navegador";
+@import "quienesSomos__desc";
+@import "imagenes";
+@import "logo";

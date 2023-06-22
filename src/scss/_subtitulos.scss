@@ -1,0 +1,15 @@
+.subtitulos{
+    margin-top: 40px;
+    text-align: center;
+    font-size: xx-large;
+}
+@media(max-width:750px){
+    .subtitulos{
+        font-size: x-large;
+    }
+}
+@media(max-width:580px){
+    .subtitulos{
+        font-size: large;
+    }
+}
